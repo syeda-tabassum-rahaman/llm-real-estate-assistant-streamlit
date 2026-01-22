@@ -46,6 +46,10 @@ The result is a fast, transparent research assistant that answers **only from in
 - **HuggingFace Embeddings** – Alibaba-NLP/gte-base-en-v1.5
 - **BeautifulSoup / Web loaders** – Content extraction
 
+## 📸 Application Preview
+
+![LLM Real Estate Assistant Screenshot](assets/screenshot_app.png)
+
 ## ▶️ How to Run the Application
 
 ### 1. Clone the repository
@@ -53,6 +57,3 @@ The result is a fast, transparent research assistant that answers **only from in
 git clone https://github.com/<your-username>/llm-real-estate-assistant-streamlit.git
 cd llm-real-estate-assistant-streamlit
 
-## 📸 Application Preview
-
-![LLM Real Estate Assistant Screenshot](assets/screenshot_app.png)
