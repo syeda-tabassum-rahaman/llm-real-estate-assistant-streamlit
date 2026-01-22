@@ -49,7 +49,7 @@ The result is a fast, transparent research assistant that answers **only from in
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="assets/screenshot_app.png" alt="LLM Real Estate Assistant Screenshot" width="800">
+  <img src="assets/real-estate-assistant.png" alt="LLM Real Estate Assistant Screenshot" width="800">
 </p>
 
 ## ▶️ How to Run the Application
@@ -58,5 +58,6 @@ The result is a fast, transparent research assistant that answers **only from in
 ```bash
 git clone https://github.com/<your-username>/llm-real-estate-assistant-streamlit.git
 cd llm-real-estate-assistant-streamlit
+
 
 
