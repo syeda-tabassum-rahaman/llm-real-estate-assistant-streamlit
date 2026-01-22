@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Env
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & artifacts
+data/raw/*
+data/processed/*
+artifacts/*
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/
+# OS
+.DS_Store
+Thumbs.db
+
+# Vector Store
+vectorstore/
